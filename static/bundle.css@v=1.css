@@ -762,7 +762,7 @@ input.form-control {
     background-position: center;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1600px) {
     .ad-bezbolesti__item {
         height: 208px;
         background: #e6e7e9 url('../static/img/bbch-small.jpg') no-repeat;
