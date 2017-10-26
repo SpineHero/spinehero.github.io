@@ -767,6 +767,7 @@ input.form-control {
         height: 208px;
         background: #e6e7e9 url('../static/img/bbch-small.jpg') no-repeat;
         background-position: center;
+        background-size: contain;
     }
 }
 
