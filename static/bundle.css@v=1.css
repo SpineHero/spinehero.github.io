@@ -501,7 +501,7 @@ input.form-control {
 }
 
 .section-head__call-to-action {
-    margin-bottom: 40px
+    margin: 0 15px 40px 15px;
 }
 
 .section-head__video {
